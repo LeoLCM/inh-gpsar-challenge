@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ArNavigation</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoibHVpZ2liZW5lZGV0dG9tdCIsImEiOiJjbDhlbmsyYXkwNDd6M3dsb2I2cWcwa3hzIn0.N2YD8ekD9J0y9VD5vLdaOg</string>
+    <string name="ext_video_example">External Video Source Example</string>
+    <string name="safety_example">Safety Example</string>
+    <string name="ar_example">AR Example</string>
+    <string name="ar_customization_example">AR Customization Example</string>
+    <string name="custom_detections_example">Custom Detections Example</string>
+    <string name="poi_example">POI Example</string>
+    <string name="camera_calibration_progress">Camera calibration: %1$d %%</string>
+    <string name="usb_video_source_example">Usb Camera Example</string>
+    <string name="vision_not_supported_message">Vision not supported</string>
+    <string name="vision_not_supported_title">Vision Error</string>
+</resources>
