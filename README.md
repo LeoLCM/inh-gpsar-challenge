@@ -8,9 +8,9 @@
 
 ### Tópicos :large_blue_diamond:
 
-**:small_blue_diamond: [Challenge Ford :car:](#challenge-ford-car)**
-**:small_blue_diamond: [Sobre :book:](#sobre-book)**
-**:small_blue_diamond: [Progresso :arrow_up:](#progresso-arrow_up)**
+**:small_blue_diamond: [Challenge Ford :car:](#challenge-ford-car)**  
+**:small_blue_diamond: [Sobre :book:](#sobre-book)**  
+**:small_blue_diamond: [Progresso :arrow_up:](#progresso-arrow_up)**  
 **:small_blue_diamond: [Integrantes 3ECA INH :handshake:](#integrantes-3eca-inh-handshake)**
 
 ## Challenge Ford :car:
@@ -48,11 +48,12 @@
 
 - [x] Criação de layout e protótipo básico
 - [x] Desenvolvimento da SDK Vision
-- [x] Utilização da API Navigation 
+- [x] Utilização da API Navigation
 - [x] Utilização da API Vision (AR)
 - [ ] Realização de testes no smartphone
 
 ## Integrantes 3ECA INH :handshake:
+
 - Leonardo Cesar de Mendonça - 84689 **(3ECR)**
 - Luigi Di Benedetto Maximo Torres - 86335
 - Moises Isaias Lima Quiñelén - 86427
