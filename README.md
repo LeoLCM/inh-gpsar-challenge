@@ -1,9 +1,7 @@
 <h1 align="center">inh-gpsar-challenge</h1>
 <p align="center">
-  <a href="https://github.com/MarlinFirmware/Marlin/releases/tag/2.1.1" target="_blank">
-    <img src="https://img.shields.io/badge/version-0.3.1-brightgreen?style=for-the-badge" alt="Marlin Version">
-  </a>
-  <img src="https://img.shields.io/badge/STATUS-WORKING-orange?style=for-the-badge" alt="Status">
+  <img src="https://img.shields.io/badge/version-0.3.1-brightgreen?style=for-the-badge" alt="Marlin Version">
+  <img src="https://img.shields.io/badge/status-trabalhando-orange?style=for-the-badge" alt="Status">
 </p>
 
 ### Tópicos :large_blue_diamond:
