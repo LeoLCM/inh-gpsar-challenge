@@ -1,6 +1,6 @@
 <h1 align="center">inh-gpsar-challenge</h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/version-0.3.1-brightgreen?style=for-the-badge" alt="Marlin Version">
+  <img src="https://img.shields.io/badge/versão-0.3.1-blue?style=for-the-badge" alt="Marlin Version">
   <img src="https://img.shields.io/badge/status-trabalhando-orange?style=for-the-badge" alt="Status">
 </p>
 
